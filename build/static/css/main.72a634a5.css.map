@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.72a634a5.css","mappings":"AAAA,OAEI,qBAAuB,CADvB,SAEJ,CAEA,SAEI,qBAAwB,CADxB,WAEJ","sources":["index.css"],"sourcesContent":[".error {\r\n    color: red;\r\n    background-color: black;\r\n}\r\n\r\n.success {\r\n    color: green;\r\n    background-color: yellow;\r\n}"],"names":[],"sourceRoot":""}
